@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"C:/Users/Piri/Desktop/alu.vhd" \
+"C:/Users/Piri/Desktop/alu_tb.vhd" \
+
+# Do not sort compile order
+nosort

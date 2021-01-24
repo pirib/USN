@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Aug 26 21:06:43 2019
+# Process ID: 5192
+# Current directory: D:/AS/VivadoProjects/bitadder4/bitadder4.runs/synth_1
+# Command line: vivado.exe -log bit4adder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source bit4adder.tcl
+# Log file: D:/AS/VivadoProjects/bitadder4/bitadder4.runs/synth_1/bit4adder.vds
+# Journal file: D:/AS/VivadoProjects/bitadder4/bitadder4.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source bit4adder.tcl -notrace

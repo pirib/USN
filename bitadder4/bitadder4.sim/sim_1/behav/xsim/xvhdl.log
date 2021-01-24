@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/AS/VivadoProjects/bitadder4/bitadder4.srcs/sources_1/new/bit4adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bit4adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/AS/VivadoProjects/bitadder4/bitadder4.srcs/sources_1/new/fulladder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'fulladder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Piri/Desktop/bit4adder_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bit4adder_tb'
